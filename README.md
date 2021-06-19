@@ -11,9 +11,9 @@ Fixed links within the original code
 # Links 
 
 # Installation 
-
+Upload the index.html and assest folder to deploy the full webpage. 
 # Usage 
-
+This code is for desktop. It has not been made for smaller screens yet. 
 # credits 
 
 # references used
