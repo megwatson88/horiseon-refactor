@@ -5,4 +5,18 @@ This project is a code refactor for the Horiseon webpage. THe purpose of this pr
 Taken the given code and added alt tags 
 Used the sematic HTML elements to keep the order logical. 
 Taken the heading and put into sequential order.
-Used titles to divide and describe the code. 
+Used commits to divide and describe the code. 
+Fixed links within the original code
+
+# Links 
+
+# Installation 
+
+# Usage 
+
+# credits 
+
+# references used
+
+# License 
+ 
