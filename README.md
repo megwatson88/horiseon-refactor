@@ -13,7 +13,7 @@ Used the semantic HTML elements to keep the order logical. </li>
 
 # Links 
 <ul> <li>[link] to the repository https://github.com/megwatson88/horiseon-refactor </li>
-<li> [link] link to the webpage file:///Users/megancampbell/Desktop/projects/horiseon-refactor/index.html
+<li> [link] link to the webpage https://<megwatson88>.github.io/<name_of_Horiseon_repo>
 </li> </ul>
 
 # Installation 
@@ -24,7 +24,7 @@ This webpage can be viewed through GitHub Pages.
 This code is for desktop. It has not been made for smaller screens yet. 
 
 # Credits 
-![alt text] (https://github.com/megwatson88/horiseon-refactor/blob/main/assets/images/01-html-css-git-homework-demo.png)
+(https://github.com/megwatson88/horiseon-refactor/blob/main/assets/images/01-html-css-git-homework-demo.png)
 # References Used
 Google
 # License 
