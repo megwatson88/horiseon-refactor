@@ -13,7 +13,7 @@ Used the semantic HTML elements to keep the order logical. </li>
 
 # Links 
 <ul> <li>[link] to the repository https://github.com/megwatson88/horiseon-refactor </li>
-<li> [link] link to the webpage https://<megwatson88>.github.io/<name_of_Horiseon_repo>
+<li> [link] link to the webpage https://<megwatson88>.github.io/<horiseon-refactor>
 </li> </ul>
 
 # Installation 
