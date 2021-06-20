@@ -10,9 +10,12 @@ Used the semantic HTML elements to keep the order logical. </li>
 <li>Used commits to divide and describe the code. </li>
 <li> Fixed links within the original code </li>
 </ul>
+
 # Links 
-[link] to the repository https://github.com/megwatson88/horiseon-refactor 
-[link] link to the webpage file:///Users/megancampbell/Desktop/projects/horiseon-refactor/index.html
+<ul> <li>[link] to the repository https://github.com/megwatson88/horiseon-refactor </li>
+<li> [link] link to the webpage file:///Users/megancampbell/Desktop/projects/horiseon-refactor/index.html
+</li> </ul>
+
 # Installation 
 Upload the index.html and assets folder to deploy the full webpage. 
 
