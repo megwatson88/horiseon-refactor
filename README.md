@@ -19,7 +19,7 @@ This webpage can be viewed through GitHub Pages.
 This code is for desktop. It has not been made for smaller screens yet. 
 
 # Credits 
-![alt text] (/Users/megancampbell/Desktop/projects/horiseon-refactor/assets/images/01-html-css-git-homework-demo.png)
+![alt text] (https://github.com/[megwatson88]/[horiseon-refactor]/blob[main]/image.jpg?raw=true)
 # References Used
 Google
 # License 
