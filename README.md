@@ -12,8 +12,8 @@ Used the semantic HTML elements to keep the order logical. </li>
 </ul>
 
 # Links 
-<ul> <li>[link] to the repository https://github.com/megwatson88/horiseon-refactor </li>
-<li> [link] link to the webpage https://megwatson88.github.io/horiseon-refactor
+<ul> <li>[link] to the repository https://github.com/megwatson88/horiseon-refactor-accessability </li>
+<li> [link] link to the webpage https://megwatson88.github.io/horiseon-refactor-accessability/
 </li> </ul>
 
 # Installation 
