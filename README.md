@@ -9,7 +9,8 @@ Used commits to divide and describe the code.
 Fixed links within the original code
 
 # Links 
-[link to rehttps://github.com/megwatson88/horiseon-refactor
+[link] to the repository https://github.com/megwatson88/horiseon-refactor 
+[link] link to the webpage file:///Users/megancampbell/Desktop/projects/horiseon-refactor/index.html
 # Installation 
 Upload the index.html and assest folder to deploy the full webpage. 
 
