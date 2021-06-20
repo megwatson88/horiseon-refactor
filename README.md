@@ -9,14 +9,17 @@ Used commits to divide and describe the code.
 Fixed links within the original code
 
 # Links 
-
+[link to rehttps://github.com/megwatson88/horiseon-refactor
 # Installation 
 Upload the index.html and assest folder to deploy the full webpage. 
+
+This webpage can be viewed through GitHub Pages. 
 # Usage 
 This code is for desktop. It has not been made for smaller screens yet. 
-# credits 
 
-# references used
+# Credits 
 
+# References Used
+Google
 # License 
- 
+ UCLA Extension provided Code. 
